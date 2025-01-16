@@ -46,10 +46,9 @@ Depression: The survey revealed an increasing trend in depression severity betwe
 Anxiety: Anxiety emerged as the most prominent condition, with respondents across all age groups experiencing moderate to severe levels of anxiety (scales 6–10). Anxiety was reported more frequently and intensely than any other disorder.
 Age Group Analysis: Anxiety was consistently the most reported and severe condition across all age groups. However, as age increased, the prevalence of depression decreased, with older participants (50+) reporting lower depression scores. OCD was notably rare, and insomnia was less impactful as age increased.
 Music's Role in Mental Health: There is a clear correlation between music listening habits and improvements in mental health, particularly in reducing symptoms of anxiety and depression. The findings suggest that incorporating music into daily routines can significantly help in managing mental health conditions.
+
 Recommendations:
-
 Based on the findings, the following recommendations are proposed:
-
 Music Therapy: Music therapy is a well-established practice that uses music to address various aspects of physical, emotional, and social health. For individuals experiencing anxiety or depression, learning to play an instrument or singing can be effective ways to reduce stress. Playing an instrument helps foster a connection to sound, while singing can improve concentration, emotional expression, and lung function.
 Seeking Professional Guidance: For those who report worsening mental states after listening to music, it is advisable to seek professional assistance. A qualified music therapist or mental health professional can provide tailored guidance and support in addressing underlying mental health issues.
 Incorporating Music into Daily Routines: For optimal mental health benefits, individuals should consider incorporating music into their daily routines. Experimenting with various music genres, artists, and listening environments can help identify the music that works best for each individual, contributing to improved emotional and psychological well-being.
